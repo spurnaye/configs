@@ -1,4 +1,4 @@
-# bash << (curl -s https://github.com/spurnaye/configs/raw/master/git_config.sh)
+# bash < <(curl -s https://raw.githubusercontent.com/spurnaye/configs/master/git_config.sh)
 git config --global alias.co checkout
 git config --global alias.br branch
 git config --global alias.ci commit
